@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project that explores customer behavior, account activity, transactions, and loan performance for a retail bank — from raw MySQL data to Python-based EDA to an interactive Power BI dashboard.
 
-![Executive Overview](Executive_overview.png)
+![Executive Overview](https://github.com/sahibsingh25012005-ui/banking-customer-financial-analysis-sql-python-powerbi/blob/main/Images/Executive_overview.png)
 
 ---
 
@@ -61,17 +61,17 @@ The dashboard consists of three pages:
 ### 1. Executive Overview
 High-level KPIs and trends for leadership — total customers, total balance, total/outstanding loan amounts, monthly transaction trends, gender distribution, age-group breakdown, and account balance by branch type/account type. Includes slicers for account type and city.
 
-![Executive Overview](Executive_overview.png)
+![Executive Overview](https://github.com/sahibsingh25012005-ui/banking-customer-financial-analysis-sql-python-powerbi/blob/main/Images/Executive_overview.png)
 
 ### 2. Customer & Account Analysis
 Deep dive into the customer base and account portfolio — average age, balance, income, active/inactive accounts, customer acquisition trend over time, account balance by type, account status distribution, and top branch cities by balance.
 
-![Customer & Account Analysis](Customer_and_account_analysis.png)
+![Customer & Account Analysis](https://github.com/sahibsingh25012005-ui/banking-customer-financial-analysis-sql-python-powerbi/blob/main/Images/Customer_and_account_analysis.png)
 
 ### 3. Transaction & Loan Analysis
 Focus on transactional and lending activity — total transactions and value, loan amount/interest by loan type, transactions by channel, debit vs. credit split, loan status breakdown, a geo map of loan distribution by city, and a detailed customer-level loan table. Includes a year slicer and account-type filter.
 
-![Transaction & Loan Analysis](Transaction_and_loan_analysis.png)
+![Transaction & Loan Analysis](https://github.com/sahibsingh25012005-ui/banking-customer-financial-analysis-sql-python-powerbi/blob/main/Images/Transaction_and_loan_analysis.png)
 
 ---
 
