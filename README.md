@@ -66,7 +66,7 @@ High-level KPIs and trends for leadership — total customers, total balance, to
 ### 2. Customer & Account Analysis
 Deep dive into the customer base and account portfolio — average age, balance, income, active/inactive accounts, customer acquisition trend over time, account balance by type, account status distribution, and top branch cities by balance.
 
-![Customer & Account Analysis](https://github.com/sahibsingh25012005-ui/banking-customer-financial-analysis-sql-python-powerbi/blob/main/Images/Customer_and_account_analysis.png)
+![Customer & Account Analysis](https://github.com/sahibsingh25012005-ui/banking-customer-financial-analysis-sql-python-powerbi/blob/main/Images/Executive_Overview.png)
 
 ### 3. Transaction & Loan Analysis
 Focus on transactional and lending activity — total transactions and value, loan amount/interest by loan type, transactions by channel, debit vs. credit split, loan status breakdown, a geo map of loan distribution by city, and a detailed customer-level loan table. Includes a year slicer and account-type filter.
