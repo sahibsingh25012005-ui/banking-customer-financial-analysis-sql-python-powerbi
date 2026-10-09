@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project that explores customer behavior, account activity, transactions, and loan performance for a retail bank — from raw MySQL data to Python-based EDA to an interactive Power BI dashboard.
 
-![Executive Overview](https://github.com/sahibsingh25012005-ui/banking-customer-financial-analysis-sql-python-powerbi/blob/main/Images/Executive_overview.png)
+![Executive Overview](https://github.com/sahibsingh25012005-ui/banking-customer-financial-analysis-sql-python-powerbi/blob/main/Images/Executive_Overview.png)
 
 ---
 
